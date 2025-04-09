@@ -1,0 +1,10 @@
+{
+    "configurations": [
+    {
+        "command": "docsify serve",
+        "name": "Run npm start",
+        "request": "launch",
+        "type": "node-terminal"
+    }
+    ]
+}
